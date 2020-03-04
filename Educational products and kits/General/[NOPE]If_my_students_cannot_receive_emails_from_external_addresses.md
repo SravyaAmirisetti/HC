@@ -1,4 +1,4 @@
-# If my students cannot receive emails from external addresses
+[OBSOLETE DO NOT USE] # If my students cannot receive emails from external addresses
 
 In order for the students to be enrolled in the online platform, they have to click an invitation link that is usually sent to their email address. If your educational institution does not allow your students to receive emails from external addresses you can still enroll them using this method instead.
 
